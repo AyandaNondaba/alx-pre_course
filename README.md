@@ -1,1 +1,1 @@
-My first readme
+Im not good at coding yet.
